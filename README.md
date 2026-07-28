@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/topriyapandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/topriyapandey/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/topriyapandey/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,4 +60,12 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
