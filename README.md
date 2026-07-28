@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/topriyapandey/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/topriyapandey/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,10 +45,12 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
+| [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
+| [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -68,4 +71,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Union-Find
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
