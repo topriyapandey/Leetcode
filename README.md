@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/topriyapandey/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/topriyapandey/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/topriyapandey/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0198-house-robber](https://github.com/topriyapandey/Leetcode/tree/master/0198-house-robber) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/topriyapandey/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0198-house-robber](https://github.com/topriyapandey/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/topriyapandey/Leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
