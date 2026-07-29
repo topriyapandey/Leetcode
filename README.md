@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/topriyapandey/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/topriyapandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/topriyapandey/Leetcode/tree/master/0012-integer-to-roman) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/topriyapandey/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/topriyapandey/Leetcode/tree/master/0012-integer-to-roman) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/topriyapandey/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/topriyapandey/Leetcode/tree/master/0014-longest-common-prefix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -98,4 +102,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/topriyapandey/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
