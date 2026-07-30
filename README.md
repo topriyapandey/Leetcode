@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/topriyapandey/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/topriyapandey/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/topriyapandey/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/topriyapandey/Leetcode/tree/master/0016-3sum-closest) |
 | [0198-house-robber](https://github.com/topriyapandey/Leetcode/tree/master/0198-house-robber) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Hash Table
@@ -83,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/topriyapandey/Leetcode/tree/master/0016-3sum-closest) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/topriyapandey/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/topriyapandey/Leetcode/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
