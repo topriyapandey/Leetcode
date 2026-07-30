@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/topriyapandey/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/topriyapandey/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/topriyapandey/Leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/topriyapandey/Leetcode/tree/master/0198-house-robber) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
@@ -21,6 +22,7 @@
 | [0012-integer-to-roman](https://github.com/topriyapandey/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/topriyapandey/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/topriyapandey/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
@@ -103,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Binary Search
@@ -141,4 +144,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/topriyapandey/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
