@@ -39,6 +39,7 @@
 | [0012-integer-to-roman](https://github.com/topriyapandey/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/topriyapandey/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/topriyapandey/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/topriyapandey/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/topriyapandey/Leetcode/tree/master/0509-fibonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/topriyapandey/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -136,6 +137,7 @@
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/topriyapandey/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/topriyapandey/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/topriyapandey/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/topriyapandey/Leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
@@ -146,6 +148,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/topriyapandey/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/topriyapandey/Leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
