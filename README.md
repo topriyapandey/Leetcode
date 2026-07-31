@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/topriyapandey/Leetcode/tree/master/0198-house-robber) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [0013-roman-to-integer](https://github.com/topriyapandey/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/topriyapandey/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/topriyapandey/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/topriyapandey/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -73,6 +75,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
@@ -114,6 +117,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Binary Search
 |  |
@@ -156,6 +160,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/topriyapandey/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
