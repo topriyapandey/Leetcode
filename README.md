@@ -87,11 +87,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Graph Theory
@@ -194,4 +196,12 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
