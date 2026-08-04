@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/topriyapandey/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Graph Theory
@@ -200,8 +201,10 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/topriyapandey/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/topriyapandey/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
