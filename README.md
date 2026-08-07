@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/topriyapandey/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/topriyapandey/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/topriyapandey/Leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/topriyapandey/Leetcode/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
@@ -241,4 +242,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/topriyapandey/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
