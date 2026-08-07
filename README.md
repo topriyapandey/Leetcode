@@ -96,6 +96,7 @@
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/topriyapandey/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0547-number-of-provinces](https://github.com/topriyapandey/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
@@ -103,11 +104,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/topriyapandey/Leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/topriyapandey/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/topriyapandey/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/topriyapandey/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
@@ -136,6 +139,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/topriyapandey/Leetcode/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 ## Matrix
 |  |
