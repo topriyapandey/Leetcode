@@ -224,6 +224,7 @@
 | [0110-balanced-binary-tree](https://github.com/topriyapandey/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/topriyapandey/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/topriyapandey/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0110-balanced-binary-tree](https://github.com/topriyapandey/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/topriyapandey/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/topriyapandey/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/topriyapandey/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/topriyapandey/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
