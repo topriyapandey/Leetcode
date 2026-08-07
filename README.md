@@ -23,6 +23,7 @@
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 | [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/topriyapandey/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -113,6 +114,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
