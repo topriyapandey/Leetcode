@@ -22,6 +22,7 @@
 | [0216-combination-sum-iii](https://github.com/topriyapandey/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
+| [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/topriyapandey/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -35,6 +36,7 @@
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/topriyapandey/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/topriyapandey/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/topriyapandey/Leetcode/tree/master/3731-find-missing-elements) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/topriyapandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Trie
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/topriyapandey/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
