@@ -42,6 +42,7 @@
 | [0002-add-two-numbers](https://github.com/topriyapandey/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/topriyapandey/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/topriyapandey/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/topriyapandey/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/topriyapandey/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/topriyapandey/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/topriyapandey/Leetcode/tree/master/0509-fibonacci-number) |
 ## String
