@@ -25,6 +25,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/topriyapandey/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/topriyapandey/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -62,6 +63,7 @@
 | [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/topriyapandey/Leetcode/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/topriyapandey/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/topriyapandey/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -193,6 +195,7 @@
 | [0198-house-robber](https://github.com/topriyapandey/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/topriyapandey/Leetcode/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 ## Combinatorics
 |  |
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 ## Tree
 |  |
@@ -283,4 +287,16 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
