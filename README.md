@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/topriyapandey/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/topriyapandey/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/topriyapandey/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/topriyapandey/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/topriyapandey/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/topriyapandey/Leetcode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
