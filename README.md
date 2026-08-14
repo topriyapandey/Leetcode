@@ -29,6 +29,7 @@
 | [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/topriyapandey/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
+| [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/topriyapandey/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/topriyapandey/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -192,6 +193,7 @@
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
