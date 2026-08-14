@@ -82,6 +82,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/topriyapandey/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/topriyapandey/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/topriyapandey/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/topriyapandey/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/topriyapandey/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/topriyapandey/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/topriyapandey/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
