@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/topriyapandey/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/topriyapandey/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/topriyapandey/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/topriyapandey/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/topriyapandey/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
@@ -233,6 +234,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/topriyapandey/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/topriyapandey/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/topriyapandey/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/topriyapandey/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/topriyapandey/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/topriyapandey/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
