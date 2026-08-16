@@ -76,6 +76,7 @@
 | [0007-reverse-integer](https://github.com/topriyapandey/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/topriyapandey/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/topriyapandey/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/topriyapandey/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/topriyapandey/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/topriyapandey/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
@@ -283,6 +284,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/topriyapandey/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/topriyapandey/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
