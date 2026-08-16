@@ -122,6 +122,7 @@
 | [0022-generate-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/topriyapandey/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/topriyapandey/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/topriyapandey/Leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/topriyapandey/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -243,6 +244,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/topriyapandey/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/topriyapandey/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -326,6 +328,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/topriyapandey/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
@@ -406,6 +409,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
