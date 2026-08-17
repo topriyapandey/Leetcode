@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/topriyapandey/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/topriyapandey/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/topriyapandey/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/topriyapandey/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/topriyapandey/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/topriyapandey/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/topriyapandey/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/topriyapandey/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/topriyapandey/Leetcode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
