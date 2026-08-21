@@ -92,6 +92,7 @@
 | [0029-divide-two-integers](https://github.com/topriyapandey/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/topriyapandey/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/topriyapandey/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/topriyapandey/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
@@ -138,6 +139,7 @@
 | [0032-longest-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/topriyapandey/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/topriyapandey/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/topriyapandey/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/topriyapandey/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/topriyapandey/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/topriyapandey/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/topriyapandey/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -368,6 +371,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/topriyapandey/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
