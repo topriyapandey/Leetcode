@@ -41,6 +41,7 @@
 | [1386-cinema-seat-allocation](https://github.com/topriyapandey/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/topriyapandey/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/topriyapandey/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/topriyapandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/topriyapandey/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/topriyapandey/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -107,6 +108,7 @@
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/topriyapandey/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/topriyapandey/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/topriyapandey/Leetcode/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/topriyapandey/Leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/topriyapandey/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/topriyapandey/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -288,6 +290,7 @@
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/topriyapandey/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/topriyapandey/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/topriyapandey/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/topriyapandey/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/topriyapandey/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Combinatorics
@@ -342,6 +345,7 @@
 | [1406-stone-game-iii](https://github.com/topriyapandey/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/topriyapandey/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/topriyapandey/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/topriyapandey/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/topriyapandey/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/topriyapandey/Leetcode/tree/master/2029-stone-game-ix) |
 ## Tree
@@ -411,16 +415,19 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/topriyapandey/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/topriyapandey/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/topriyapandey/Leetcode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/topriyapandey/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/topriyapandey/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/topriyapandey/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/topriyapandey/Leetcode/tree/master/2029-stone-game-ix) |
 ## Euclidean Algorithm
 |  |
