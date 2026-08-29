@@ -166,6 +166,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/topriyapandey/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/topriyapandey/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/topriyapandey/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/topriyapandey/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/topriyapandey/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/topriyapandey/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -507,5 +508,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/topriyapandey/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/topriyapandey/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
