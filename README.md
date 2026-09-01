@@ -54,6 +54,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/topriyapandey/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/topriyapandey/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/topriyapandey/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/topriyapandey/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/topriyapandey/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/topriyapandey/Leetcode/tree/master/3731-find-missing-elements) |
@@ -80,6 +81,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/topriyapandey/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/topriyapandey/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/topriyapandey/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/topriyapandey/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/topriyapandey/Leetcode/tree/master/3731-find-missing-elements) |
@@ -206,6 +208,7 @@
 | [0743-network-delay-time](https://github.com/topriyapandey/Leetcode/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -355,6 +359,7 @@
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/topriyapandey/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/topriyapandey/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/topriyapandey/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
