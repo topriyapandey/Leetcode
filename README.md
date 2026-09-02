@@ -23,6 +23,7 @@
 | [0041-first-missing-positive](https://github.com/topriyapandey/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/topriyapandey/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/topriyapandey/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -343,6 +344,7 @@
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/topriyapandey/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/topriyapandey/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/topriyapandey/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
