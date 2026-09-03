@@ -25,6 +25,7 @@
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/topriyapandey/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/topriyapandey/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/topriyapandey/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -111,6 +112,7 @@
 | [0013-roman-to-integer](https://github.com/topriyapandey/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/topriyapandey/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/topriyapandey/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/topriyapandey/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/topriyapandey/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/topriyapandey/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/topriyapandey/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/topriyapandey/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
