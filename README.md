@@ -24,6 +24,7 @@
 | [0042-trapping-rain-water](https://github.com/topriyapandey/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/topriyapandey/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/topriyapandey/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -240,6 +241,7 @@
 | [0015-3sum](https://github.com/topriyapandey/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/topriyapandey/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/topriyapandey/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/topriyapandey/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/topriyapandey/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/topriyapandey/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -347,6 +349,7 @@
 | [0039-combination-sum](https://github.com/topriyapandey/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/topriyapandey/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/topriyapandey/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/topriyapandey/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
