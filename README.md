@@ -29,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/topriyapandey/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/topriyapandey/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/topriyapandey/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
