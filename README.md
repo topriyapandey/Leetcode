@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/topriyapandey/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/topriyapandey/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/topriyapandey/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/topriyapandey/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -77,6 +78,7 @@
 | [0036-valid-sudoku](https://github.com/topriyapandey/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/topriyapandey/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/topriyapandey/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/topriyapandey/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -174,6 +176,7 @@
 | [0038-count-and-say](https://github.com/topriyapandey/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/topriyapandey/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/topriyapandey/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/topriyapandey/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/topriyapandey/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
@@ -245,6 +248,7 @@
 | [0016-3sum-closest](https://github.com/topriyapandey/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/topriyapandey/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/topriyapandey/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/topriyapandey/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/topriyapandey/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/topriyapandey/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
