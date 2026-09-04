@@ -361,6 +361,7 @@
 | [0046-permutations](https://github.com/topriyapandey/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/topriyapandey/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/topriyapandey/Leetcode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/topriyapandey/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -555,4 +556,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/topriyapandey/Leetcode/tree/master/0042-trapping-rain-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/topriyapandey/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
