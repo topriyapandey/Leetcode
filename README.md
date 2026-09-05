@@ -35,6 +35,7 @@
 | [0057-insert-interval](https://github.com/topriyapandey/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/topriyapandey/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/topriyapandey/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/topriyapandey/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -257,6 +258,7 @@
 | [0047-permutations-ii](https://github.com/topriyapandey/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/topriyapandey/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/topriyapandey/Leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/topriyapandey/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/topriyapandey/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/topriyapandey/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -320,6 +322,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/topriyapandey/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/topriyapandey/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/topriyapandey/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/topriyapandey/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/topriyapandey/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/topriyapandey/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -572,4 +575,12 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/topriyapandey/Leetcode/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/topriyapandey/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/topriyapandey/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
