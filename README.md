@@ -30,6 +30,7 @@
 | [0051-n-queens](https://github.com/topriyapandey/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/topriyapandey/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/topriyapandey/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/topriyapandey/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/topriyapandey/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -332,6 +333,7 @@
 | [0044-wildcard-matching](https://github.com/topriyapandey/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/topriyapandey/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/topriyapandey/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/topriyapandey/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/topriyapandey/Leetcode/tree/master/0070-climbing-stairs) |
@@ -378,6 +380,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/topriyapandey/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/topriyapandey/Leetcode/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/topriyapandey/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/topriyapandey/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/topriyapandey/Leetcode/tree/master/2029-stone-game-ix) |
