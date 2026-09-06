@@ -33,6 +33,7 @@
 | [0055-jump-game](https://github.com/topriyapandey/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/topriyapandey/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/topriyapandey/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/topriyapandey/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/topriyapandey/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/topriyapandey/Leetcode/tree/master/0075-sort-colors) |
@@ -292,6 +293,7 @@
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/topriyapandey/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/topriyapandey/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/topriyapandey/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
@@ -467,6 +469,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/topriyapandey/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/topriyapandey/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/topriyapandey/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
