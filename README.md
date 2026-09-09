@@ -67,6 +67,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/topriyapandey/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/topriyapandey/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/topriyapandey/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/topriyapandey/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/topriyapandey/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/topriyapandey/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -153,6 +154,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/topriyapandey/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/topriyapandey/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/topriyapandey/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/topriyapandey/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/topriyapandey/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/topriyapandey/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/topriyapandey/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -423,6 +425,7 @@
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/topriyapandey/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/topriyapandey/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/topriyapandey/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/topriyapandey/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
@@ -592,6 +595,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/topriyapandey/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/topriyapandey/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/topriyapandey/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/topriyapandey/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
