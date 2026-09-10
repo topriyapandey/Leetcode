@@ -205,6 +205,7 @@
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/topriyapandey/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/topriyapandey/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/topriyapandey/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/topriyapandey/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/topriyapandey/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/topriyapandey/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -414,6 +415,7 @@
 | [0044-wildcard-matching](https://github.com/topriyapandey/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/topriyapandey/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/topriyapandey/Leetcode/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/topriyapandey/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/topriyapandey/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/topriyapandey/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/topriyapandey/Leetcode/tree/master/2029-stone-game-ix) |
@@ -478,6 +480,7 @@
 | [0032-longest-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/topriyapandey/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/topriyapandey/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/topriyapandey/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -611,6 +614,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/topriyapandey/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/topriyapandey/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Algorithm X
 |  |
 | ------- |
