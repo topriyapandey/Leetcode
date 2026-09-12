@@ -210,6 +210,7 @@
 | [0065-valid-number](https://github.com/topriyapandey/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/topriyapandey/Leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/topriyapandey/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/topriyapandey/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/topriyapandey/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -492,6 +493,7 @@
 | [0020-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/topriyapandey/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/topriyapandey/Leetcode/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/topriyapandey/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/topriyapandey/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
