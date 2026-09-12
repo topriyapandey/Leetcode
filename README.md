@@ -37,6 +37,7 @@
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/topriyapandey/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/topriyapandey/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/topriyapandey/Leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/topriyapandey/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
@@ -208,6 +209,7 @@
 | [0058-length-of-last-word](https://github.com/topriyapandey/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/topriyapandey/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/topriyapandey/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/topriyapandey/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/topriyapandey/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -513,6 +515,7 @@
 | [0054-spiral-matrix](https://github.com/topriyapandey/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/topriyapandey/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/topriyapandey/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/topriyapandey/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/topriyapandey/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/topriyapandey/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
