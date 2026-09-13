@@ -47,6 +47,7 @@
 | [0486-predict-the-winner](https://github.com/topriyapandey/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/topriyapandey/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/topriyapandey/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/topriyapandey/Leetcode/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
@@ -329,6 +330,7 @@
 | [0064-minimum-path-sum](https://github.com/topriyapandey/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/topriyapandey/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
