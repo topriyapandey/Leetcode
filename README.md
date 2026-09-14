@@ -98,6 +98,7 @@
 | [0041-first-missing-positive](https://github.com/topriyapandey/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/topriyapandey/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/topriyapandey/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/topriyapandey/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/topriyapandey/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -216,6 +217,7 @@
 | [0068-text-justification](https://github.com/topriyapandey/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/topriyapandey/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/topriyapandey/Leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/topriyapandey/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/topriyapandey/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/topriyapandey/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -238,6 +240,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/topriyapandey/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/topriyapandey/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/topriyapandey/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/topriyapandey/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/topriyapandey/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
