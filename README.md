@@ -38,6 +38,7 @@
 | [0064-minimum-path-sum](https://github.com/topriyapandey/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/topriyapandey/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/topriyapandey/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/topriyapandey/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/topriyapandey/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/topriyapandey/Leetcode/tree/master/0090-subsets-ii) |
@@ -96,6 +97,7 @@
 | [0037-sudoku-solver](https://github.com/topriyapandey/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/topriyapandey/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/topriyapandey/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/topriyapandey/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/topriyapandey/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/topriyapandey/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0992-subarrays-with-k-different-integers](https://github.com/topriyapandey/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -329,6 +331,7 @@
 | [0059-spiral-matrix-ii](https://github.com/topriyapandey/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/topriyapandey/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/topriyapandey/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/topriyapandey/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/topriyapandey/Leetcode/tree/master/0079-word-search) |
 | [0827-making-a-large-island](https://github.com/topriyapandey/Leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/topriyapandey/Leetcode/tree/master/0835-image-overlap) |
