@@ -67,6 +67,7 @@
 | [2029-stone-game-ix](https://github.com/topriyapandey/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/topriyapandey/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/topriyapandey/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/topriyapandey/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/topriyapandey/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/topriyapandey/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/topriyapandey/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -369,6 +370,7 @@
 | [0835-image-overlap](https://github.com/topriyapandey/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/topriyapandey/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/topriyapandey/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/topriyapandey/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/topriyapandey/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -438,6 +440,7 @@
 | [1563-stone-game-v](https://github.com/topriyapandey/Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/topriyapandey/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/topriyapandey/Leetcode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/topriyapandey/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/topriyapandey/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/topriyapandey/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/topriyapandey/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -653,6 +656,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/topriyapandey/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/topriyapandey/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/topriyapandey/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
 | ------- |
